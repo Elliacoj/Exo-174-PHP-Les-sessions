@@ -1,11 +1,5 @@
 <?php
+session_start();
 
-// Premiere ligne
-
-
-
-
-
-
-
+$_SESSION['color'] = 'red';
 
